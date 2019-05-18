@@ -15,6 +15,7 @@ REQUIRED_CONFIG_KEYS = [
     "api_type",
     "username",
     "password",
+    "project"
 ]
 
 
